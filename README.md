@@ -1,1 +1,1 @@
-# ptxyz-finance-go
+# Finance PT. XYZ
